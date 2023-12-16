@@ -6,7 +6,7 @@ from os import path
 import zipfile
 
 st.set_page_config(layout='wide')
-st.title('ManoranjanMantra')
+st.title('Manoranjan Mantra 🤹‍♂️🎭🔮')
 
 
 def fetch_api(movie_id):
